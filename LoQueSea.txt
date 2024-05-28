@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Lo que sea x2
-puro joto ve el pito de su amigo
+=======
+Lo que sea TEXTO
+>>>>>>> fad6faeced0469b6599e5bb63905cac4e502130b
